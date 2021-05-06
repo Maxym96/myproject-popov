@@ -1,3 +1,6 @@
-<?php
 
-phpinfo();
+
+class NewIndex
+{
+    echo 'New index';
+}
